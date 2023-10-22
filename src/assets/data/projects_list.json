@@ -1,0 +1,27 @@
+{
+  "4": {
+    "title": "Thrift Safari",
+    "description": "Built a user-friendly e-commerce web application with Cart, Order and Inventory services using Node and ReactJS. Implemented Session management, Authentication to support user specific profiles and pages. Integrated Google Maps and payment gateway APIs, utilized React Bootstrap, and Mongoose for improved efficiency",
+    "githubUrl": "https://github.com/HemaSreeBojanapally",
+    "projectUrl": "https://github.com/HemaSreeBojanapally",
+    "imageUrl": "github_explorer_screenshot.png",
+    "technologies": ["MongoDB", "Express", "ReactJS", "NodeJS"]
+  },
+  "3": {
+    "title": "Grocery Store Aisle Tracker Prototype",
+    "description": "Developed an Aisle Tracker application that provides aisle information of all available products. Extracted the products sorted based on the Aisle number and provided checkout functionality.",
+    "githubUrl": "https://github.com/HemaSreeBojanapally",
+    "projectUrl": "https://github.com/HemaSreeBojanapally",
+    "imageUrl": "github_explorer_screenshot.png",
+    "technologies": ["Java", "JavaFX"]
+  },
+  "1": {
+    "title": "IOT Based Centralised Water Distribution System",
+    "description": "Proposed a Water distribution control system for Metropolitan cities using Node-MCU ESP8266 module. Developed a Web Application for monitoring and controlling the water supply for administration purpose. Designed a secured Android Application for public interface, for fetching water utilization, flow and timings of supply.",
+    "githubUrl": "https://github.com/vkbalusu",
+    "projectUrl": "https://github.com/vkbalusu",
+    "imageUrl": "github_explorer_screenshot.png",
+    "technologies": ["JavaScript", "HTML", "PLC"]
+  }
+
+}
