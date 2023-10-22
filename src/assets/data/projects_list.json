@@ -18,8 +18,8 @@
   "1": {
     "title": "IOT Based Centralised Water Distribution System",
     "description": "Proposed a Water distribution control system for Metropolitan cities using Node-MCU ESP8266 module. Developed a Web Application for monitoring and controlling the water supply for administration purpose. Designed a secured Android Application for public interface, for fetching water utilization, flow and timings of supply.",
-    "githubUrl": "https://github.com/vkbalusu",
-    "projectUrl": "https://github.com/vkbalusu",
+    "githubUrl": "https://github.com/HemaSreeBojanapally",
+    "projectUrl": "https://github.com/HemaSreeBojanapally",
     "imageUrl": "github_explorer_screenshot.png",
     "technologies": ["JavaScript", "HTML", "PLC"]
   }
